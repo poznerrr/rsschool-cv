@@ -1,1 +1,1 @@
-https://poznerrr.github.io/rsschool-cv/cv
+https://poznerrr.github.io/rsschool-cv/cv 
