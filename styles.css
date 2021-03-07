@@ -1,3 +1,13 @@
+footer{
+    display: inline;
+}
+li {
+    list-style-type: none;
+   }
 .center {
     text-align: center;
+    background-color:#fbfdfb;
+}
+.svg{
+    margin: 50px 30px;
 }
